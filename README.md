@@ -1,4 +1,4 @@
-# pagerank-with-multiple-cpu - Pytorch
+# pagerank with multiple CPUs - Pytorch
 
 This project belongs to AGC lab, University of Tromso, Norway. 
 
